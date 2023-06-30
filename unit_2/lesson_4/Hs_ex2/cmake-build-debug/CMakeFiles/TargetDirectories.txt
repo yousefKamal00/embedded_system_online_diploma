@@ -1,0 +1,3 @@
+C:/Users/Dr. Freeman/git_hub/embedded_system/unit_2/lesson_4/Hs_ex2/cmake-build-debug/CMakeFiles/Hs_ex2.dir
+C:/Users/Dr. Freeman/git_hub/embedded_system/unit_2/lesson_4/Hs_ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dr. Freeman/git_hub/embedded_system/unit_2/lesson_4/Hs_ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
