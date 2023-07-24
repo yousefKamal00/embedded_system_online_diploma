@@ -1,0 +1,3 @@
+C:/Users/Dr. Freeman/git_hub/embedded_system/unit_3/lesson_1/led/cmake-build-debug/CMakeFiles/led.dir
+C:/Users/Dr. Freeman/git_hub/embedded_system/unit_3/lesson_1/led/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dr. Freeman/git_hub/embedded_system/unit_3/lesson_1/led/cmake-build-debug/CMakeFiles/rebuild_cache.dir
